@@ -37,7 +37,7 @@ const App = () => {
                 },
                 "&::-webkit-scrollbar-thumb": {
                     boxShadow: 'inset 0 0 6px rgba(0, 0, 0, 0.3)',
-                    backgroundColor: "#be20fc",
+                    backgroundColor: "#f38230",
                 },
             },
             scrollbarStylesSoft: {

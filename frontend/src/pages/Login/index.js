@@ -89,7 +89,7 @@ const Login = () => {
 		<div className={classes.root}>
 			<Container component="main" maxWidth="xs">
 				<CssBaseline />
-				<div className={classes.paper}>
+				<div style={{ boxShadow: "0px 7px 16px rgba(0, 0, 0, 0.4)" }} className={classes.paper}>
 					<div>
 						<img style={{ margin: "0 auto", width: "100%" }} src={logo} alt="Whats" />
 					</div>
