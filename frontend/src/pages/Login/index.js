@@ -34,7 +34,7 @@ const useStyles = makeStyles(theme => ({
 	root: {
 		width: "100vw",
 		height: "100vh",
-		background: "linear-gradient(to right, #b207f5 , #c03df4 , #8901bf)",
+		background: "#fff",
 		//backgroundImage: "url(https://equipechat.com/imagens/equipechat.jpg)",
 		backgroundRepeat: "no-repeat",
 		backgroundSize: "100% 100%",
