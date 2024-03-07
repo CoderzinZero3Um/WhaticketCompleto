@@ -1,4 +1,4 @@
-<h1 align="center">Whaticket Baileys cumunidade |BHMasters</h1>
+<h1 align="center">Whaticket Baileys comunidade |BHMasters</h1>
 
 
 
